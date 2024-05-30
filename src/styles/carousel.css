@@ -1,0 +1,9 @@
+/* Add this CSS to your stylesheet */
+.slick-prev, .slick-next {
+  color: gray;
+  z-index: 1; 
+}
+
+.slick-prev::before, .slick-next::before {
+  color: gray; 
+}

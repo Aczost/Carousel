@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    /* Uncomment if you want to keep padding */
+    /* padding: 0px 60px; */
+    @apply bg-cover bg-center;
+    background-image: url('https://img.freepik.com/free-photo/digital-art-beautiful-mountains_23-2151123686.jpg');
+  }
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color:orange !important;
+}
