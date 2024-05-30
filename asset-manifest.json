@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/slider/static/css/main.fd6e7263.css",
+    "main.js": "/slider/static/js/main.45b77584.js",
+    "static/js/787.ded37e57.chunk.js": "/slider/static/js/787.ded37e57.chunk.js",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.42 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.42 (1).372c48101b6065180918.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.44 (2).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.44 (2).9a1eac6f74ef18f08c7c.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.44.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.44.a94ba54427059970355e.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.40.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.40.45e05be0645ee620cee5.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.41.50 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.41.50 (1).8df8554524746b1c28ff.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.42 (2).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.42 (2).6f69724dd9b340a4fe45.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.43 (2).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.43 (2).cc12faa6eae3c58676b4.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.41 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.41 (1).76f1826b85bf4c140f38.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.39.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.39.e68dd4e9f7cd5593984d.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.41.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.41.f92e08c0d005f180c179.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.42.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.42.6ef805ffd2a48bdcd4aa.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.40 (2).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.40 (2).385ea6e30442f833b35c.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.43.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.43.3df02f5697da5921c6fb.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.43 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.43 (1).79dc5bbc0aa5450da9c3.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.41 (2).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.41 (2).92517b49aac3d09efba1.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.44 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.44 (1).437d7cafb5bf4bf2adb6.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.38.40 (1).jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.38.40 (1).3c839453b33c24aeb6f0.jpeg",
+    "static/media/WhatsApp Image 2024-05-30 at 19.41.50.jpeg": "/slider/static/media/WhatsApp Image 2024-05-30 at 19.41.50.ce13c5bdbdbfe6346cab.jpeg",
+    "static/media/slick.svg": "/slider/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/slider/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/slider/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/slider/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/slider/index.html",
+    "main.fd6e7263.css.map": "/slider/static/css/main.fd6e7263.css.map",
+    "main.45b77584.js.map": "/slider/static/js/main.45b77584.js.map",
+    "787.ded37e57.chunk.js.map": "/slider/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6e7263.css",
+    "static/js/main.45b77584.js"
+  ]
+}
